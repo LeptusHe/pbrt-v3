@@ -1,5 +1,10 @@
+.idea
+cmake-build-debug
+cmake-build-release
+
 *~
 src/build
 src/bin
 src/objs
 .sconsign.dblite
+
